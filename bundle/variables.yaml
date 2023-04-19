@@ -1,0 +1,4 @@
+variables:
+- team: Frohnapw-ci-workshop-pipeline
+- admin-user: frohnapw-admin
+- manager-user: frohnapw
